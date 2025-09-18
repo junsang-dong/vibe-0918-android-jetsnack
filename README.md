@@ -3,8 +3,6 @@
 > **Jetpack Compose를 활용한 스낵 주문 앱으로 바이브코딩 입문자를 위한 실습 프로젝트**
 - https://nextplatform.net/vibecoding-android-studio-cursor-app-build/
 
-![Jetsnack Demo](android-2025-compose-samples/readme/screenshots/Jetsnack.png)
-
 ## 📋 프로젝트 개요
 
 Jetsnack은 Google의 공식 Jetpack Compose 샘플 프로젝트로, 현대적인 안드로이드 앱 개발의 핵심 기술들을 학습할 수 있는 완벽한 예제입니다. 바이브코딩 입문자들이 안드로이드 앱 개발의 전 과정을 체험할 수 있도록 구성되었습니다.
